@@ -7,3 +7,23 @@
     height: 120px;
     animation: spin 2s linear infinite;
 }
+
+.logoPortal{
+    max-height: 64px;
+    max-width: 280px;
+
+}
+
+.logoPortal:hover{
+    cursor: pointer;
+
+
+}
+
+.container-login{
+    width: 100%;
+    margin-left: 0px;
+    float: left;
+    margin: auto;
+    padding: 0px;
+}
